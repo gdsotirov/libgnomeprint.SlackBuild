@@ -1,0 +1,10 @@
+expat >= 2.0.1
+fontconfig >= 2.4.2
+freetype >= 2.3.4
+glib2 >= 2.12.12
+glibc-solibs >= 2.5
+libart_lgpl >= 2.3.19
+libgnomecups >= 0.2.2
+libxml2 >= 2.6.28
+pango >= 1.16.4
+popt >= 1.7
